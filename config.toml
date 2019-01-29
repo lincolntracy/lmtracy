@@ -13,7 +13,7 @@ title = "Dr. Lincoln M. Tracy"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "Lincoln M. Tracy &copy; 2018"
+copyright = "Lincoln M. Tracy &copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = false
@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "Monash University", url = "https://www.monash.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "dr.lincoln.m.tracy@gmail.com"
