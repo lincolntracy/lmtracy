@@ -78,7 +78,7 @@ October 2018
 
 February 2019
 
-[The North American Pain School (with Anne Burke)]()
+[The North American Pain School (with Anne Burke)](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_FEB19.pdf)
 
 <br/>
 <center>
