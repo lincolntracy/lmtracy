@@ -46,4 +46,8 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
 
 There is growing evidence to suggest that the neuropeptide hormone oxytocin plays an important role in the modulation of both social and non-social cognition and behaviour. However, [oxytocin is more than just a "social" peptide](https://www.smbc-comics.com/comic/2014-04-26), as it (and the closely related peptide vasopressin) is also involved in regulating a number of different [physiological systems](https://www.smbc-comics.com/comic/oxytocin).
 
-My research in this area explores the potential modulatory effects of oxytocin on the perception and experience of pain in healthy people, and people living with chronic pain. Improving our understanding of how oxytocin influences pain can help identify potential novel treatment approaches.
+I first started research in this area during my honours year at Monash University in 2013. Data from my research was features in a paper focusing on the [oxytocinergic regulation of endogenous as well as drug-induced mood](https://www.lincolntracy.com/publication/pbb2014/).
+
+For my PhD I explored the potential modulatory effects of oxytocin on the perception and experience of pain in healthy people, and people living with chronic pain. Improving our understanding of how oxytocin influences pain can help identify potential novel treatment approaches.
+
+Since completing my PhD I have worked on a clinical trial investigating the biological processes, including brain and hormonal responses, underlying social and emotional processes in elderly populations. This study is being conducted by the [Cognition and Emotion Research Centre](https://ccaer.acu.edu.au/) at Australian Catholic University. [Click here](https://oxytocinresearch.weebly.com/) for further information about the study. 
