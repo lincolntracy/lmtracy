@@ -49,7 +49,7 @@ caption = "Anne Burke"
 
 *This article was first published in the Australian Pain Society Newsletter, [February 2019 edition](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_FEB19.pdf) and is reproduced with permission.*
 
-**Lincoln Tracy** is a researcher and freelance writer based in Melbourne. **Anne Burke** is President Elect of the [Australian Pain Society](https://www.apsoc.org.au/) and Co-Director of Psychology at [Central Adelaide Local Health Network](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/our+local+health+networks/central+adelaide+local+health+network). You can find them on Twitter [@lincolntracy](https://twitter.com/lincolntracy) and [@anne_burke](https://twitter.com/anne__burke).
+**Lincoln Tracy** is a researcher and freelance writer based in Melbourne. **Anne Burke** is President Elect of the [Australian Pain Society](https://www.apsoc.org.au/) and Co-Director of Psychology at [Central Adelaide Local Health Network](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/our+local+health+networks/central+adelaide+local+health+network). You can find them on Twitter [@lincolntracy](https://twitter.com/lincolntracy) and [@anne__burke](https://twitter.com/anne__burke).
 
 <br/>
 <center>

@@ -44,7 +44,7 @@ url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://
   focal_point = "Smart"
 +++
 
-Approximately 3,000 people present to specialist burns units in Australia and New Zealand each year with burn injuries. Epidemiological, quality of care, and outcome data for these patients in then entered into the [Burns Registry of Australia and New Zealand](https://branz.org/) (BRANZ). 
+Approximately 3,000 people present to specialist burns units in Australia and New Zealand each year with burn injuries. Epidemiological, quality of care, and outcome data for these patients in then entered into the [Burns Registry of Australia and New Zealand](https://www.monash.edu/medicine/sphpm/branz) (BRANZ). 
 
 My research in this area uses data from the BRANZ. I am currently undertaking projects investigating:
 

@@ -37,6 +37,6 @@ weight = 5
 
 Lincoln M. Tracy is a researcher in the School of Public Health and Preventive Medicine at Monash University. He is currently undertaking research relating to burn injuries in Australia and New Zealand. His [research interests](/#projects) include oxytocin, pain, and heart rate variability.
 
-Outside of research Lincoln has conducted interviews and written for [Pain Research Forum](https://www.painresearchforum.org/) and [RELIEF](http://relief.news/home/).
+Outside of research Lincoln has conducted interviews and written for [Pain Research Forum](https://www.painresearchforum.org/), [RELIEF](http://relief.news/home/), and [BrainPost](https://www.brainpost.co/).
 
 Lincoln is the Assistant Editor for the [Australian Pain Society](https://www.apsoc.org.au/) Newsletter and the Secretary for the [Australasian Society for Social and Affective Neuroscience](http://www.as4san.com/).
