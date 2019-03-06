@@ -51,6 +51,10 @@ My interest in writing and science communication has been inspired by many sourc
 <br/>
 **Pain Research Forum**
 
+*March 2019*
+
+[Back (Pain) to the Drawing Board: Pain Education as a Treatment – A Chat with Lorimer Moseley](https://www.painresearchforum.org/forums/interview/111631-back-pain-drawing-board-pain-education-treatment%E2%80%94-chat-lorimer-moseley)
+
 *July 2018*
 
 [Australian Pain Society Rising Star: A Chat With Flavia Di Pietro](https://www.painresearchforum.org/forums/interview/99485-australian-pain-society-rising-star-chat-flavia-di-pietro)
