@@ -51,6 +51,8 @@ My interest in writing and science communication has been inspired by many sourc
 <br/>
 **Pain Research Forum**
 
+[Pain Research Forum](https://www.painresearchforum.org/) is an interactive web community for investigators in academia, industry, medicine, and other fields who are working to translate basic neurobiology into new treatments for chronic pain. PRF aims to speed the rendering of new knowledge into novel therapies by improving information sharing between labs and the clinic, by fostering new collaborations among researchers, and by raising interest in pain research among a wider community of scientists and clinicians. 
+
 *March 2019*
 
 [Back (Pain) to the Drawing Board: Pain Education as a Treatment – A Chat with Lorimer Moseley](https://www.painresearchforum.org/forums/interview/111631-back-pain-drawing-board-pain-education-treatment%E2%80%94-chat-lorimer-moseley)
@@ -73,6 +75,8 @@ My interest in writing and science communication has been inspired by many sourc
 <br/>
 **RELIEF**
 
+[RELIEF](http://relief.news/), the sister site to PRF, aims to translate the full breadth and depth of pain research into easy to understand langauge and concepts for patients and the genreal public. In doing so, RELIEF hopes to raise awareness of chronic pain in society and help rally support for research.  
+
 *October 2018*
 
 [Why Do Women Experience Chronic Pain More Often than Men?](http://relief.news/why-do-women-experience-chronic-pain-more-often-than-men/)
@@ -80,12 +84,16 @@ My interest in writing and science communication has been inspired by many sourc
 <br/>
 **Australian Pain Society eNewsletter**
 
+The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education and research. The monthly eNewsletter is a primary means of cumminication with APS members and the general public.
+
 *February 2019*
 
 [The North American Pain School (with Anne Burke)](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_FEB19.pdf)
 
 <br/>
 **BrainPost**
+
+[BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
 
 *February 2019*
 

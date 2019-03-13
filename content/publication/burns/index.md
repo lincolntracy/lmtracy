@@ -1,6 +1,6 @@
 +++
 title = "Epidemiology of work-related burn injuries presenting to burn centres in Australia and New Zealand"
-date = 2018-09-28T00:00:00
+date = 2019-03-13T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -75,4 +75,4 @@ math = true
 
 **Full citation**
 
-McInnes, J.A., Cleland, H.A., **Tracy, L.M.**, Darton, A., Wood, F.W., Perrett, T., & Gabbe, B.J. (in press). Epidemiology of work-related burn injuries presenting to burn centres in Australia and New Zealand. *Burns*. <br/> DOI: 10.1016/j.burns.2018.09.011
+McInnes, J.A., Cleland, H.A., **Tracy, L.M.**, Darton, A., Wood, F.W., Perrett, T., & Gabbe, B.J. (2019). Epidemiology of work-related burn injuries presenting to burn centres in Australia and New Zealand. *Burns*, 45(2): 484-493. <br/> DOI: 10.1016/j.burns.2018.09.011
