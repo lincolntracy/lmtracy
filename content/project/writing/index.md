@@ -75,7 +75,11 @@ My interest in writing and science communication has been inspired by many sourc
 <br/>
 **RELIEF**
 
-[RELIEF](http://relief.news/), the sister site to PRF, aims to translate the full breadth and depth of pain research into easy to understand langauge and concepts for patients and the genreal public. In doing so, RELIEF hopes to raise awareness of chronic pain in society and help rally support for research.  
+[RELIEF](http://relief.news/), the sister site to PRF, aims to translate the full breadth and depth of pain research into easy to understand langauge and concepts for patients and the genreal public. In doing so, RELIEF hopes to raise awareness of chronic pain in society and help rally support for research. 
+
+*March 2019*
+
+[Heard It Through the Grapevine: Can Music Ease Pain?](https://relief.news/heard-it-through-the-grapevine-can-music-ease-pain/)
 
 *October 2018*
 
