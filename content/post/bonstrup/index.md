@@ -35,16 +35,6 @@ projects = ["writing"]
 
 # Set captions for image gallery.
 
-# [[gallery_item]]
-# album = "gallery"
-# image = "01_lincolntracy.jpg"
-# caption = "Lincoln Tracy"
-
-# [[gallery_item]]
-# album = "gallery"
-# image = "02_anneburke.jpg"
-# caption = "Anne Burke"
-
 +++
 
 *This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/4/2/early-skill-learning-occurs-predominantly-at-rest) and is reproduced with permission.*
