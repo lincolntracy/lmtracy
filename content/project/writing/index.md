@@ -90,6 +90,10 @@ My interest in writing and science communication has been inspired by many sourc
 
 The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education and research. The monthly eNewsletter is a primary means of cumminication with APS members and the general public.
 
+*April-May 2019*
+
+[Prescription Drug Diversion and Pain: History, Policy, and Treatment](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_APR_MAY.pdf)
+
 *February 2019*
 
 [The North American Pain School (with Anne Burke)](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_FEB19.pdf)
@@ -98,6 +102,10 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 **BrainPost**
 
 [BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
+
+*April 2019*
+
+[Early Skill Learning Occurs Predominantly at Rest](https://www.brainpost.co/weekly-brainpost/2019/4/2/early-skill-learning-occurs-predominantly-at-rest)
 
 *February 2019*
 
