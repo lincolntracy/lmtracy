@@ -105,6 +105,8 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 
 *April 2019*
 
+[Thirst Controls Motivated Behavior by Modulating Neural Activity in Mice](https://www.brainpost.co/weekly-brainpost/2019/4/30/thirst-controls-motivated-behavior-by-modulating-neural-activity-in-mice)
+
 [Early Skill Learning Occurs Predominantly at Rest](https://www.brainpost.co/weekly-brainpost/2019/4/2/early-skill-learning-occurs-predominantly-at-rest)
 
 *February 2019*

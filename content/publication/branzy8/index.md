@@ -40,7 +40,7 @@ projects = ["burn injuries"]
 tags = ["burn injuries"]
 
 # Links (optional).
-url_pdf = "http://branz.org/sites/default/files/BRANZ%208th%20Annual%20Report%20Jul%2016%20-%20Jun%2017_0.pdf"
+url_pdf = "https://www.monash.edu/__data/assets/pdf_file/0005/1411349/BRANZ-8th-Annual-Report-Jul-16-Jun-17_0.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
