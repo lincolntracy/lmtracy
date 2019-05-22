@@ -3,7 +3,7 @@ title = "A Search for Blood Biomarkers That Predict Pain"
 subtitle = "A new study identifies a number of blood gene expression biomarkers that predict pain in psychiatric patients; findings also point to new treatment avenues"
 
 date = 2019-05-06T00:00:00
-lastmod = 2019-05-06T00:00:00
+lastmod = 2019-05-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -54,33 +54,39 @@ Niculescu, a psychiatrist and molecular biologist, first became interested in bi
 
 The researchers began to look at pain—like suicide, a subjective sensation with biological underpinnings—considering the close relationship between psychiatric disorders and pain. Psychiatric patients often report increased pain perception and have comorbid pain disorders. Furthermore, a number of psychiatric medications, including antidepressants, are helpful to treat pain (see [PRF related news](https://www.painresearchforum.org/news/109373-how-antidepressants-ease-neuropathic-pain)).
 
-The group collected blood samples from patients at three- to six-month intervals, and also noted their pain ratings on a scale of one to 10, and the extent to which pain interfered with normal living activities. The investigators looked at how these measures changed over time in each patient—a within-individual longitudinal design that avoids the limitations of cross-sectional case-control studies. This discovery cohort included 19 male and nine female subjects tested over multiple visits (79 visits in total) and who each had at least one visit classified as low pain (pain rating of two or lower) or high pain (pain rating of six or higher). Through whole-genome blood gene expression analysis, Niculescu and his team identified candidate biomarkers between low-pain and high-pain states.
+The group collected blood samples from patients at three- to six-month intervals, and also noted their pain ratings on a scale of one to 10, and the extent to which pain interfered with normal living activities. The investigators looked at how these measures changed over time in each patient—a within-individual longitudinal design that avoids the limitations of cross-sectional case-control studies. This discovery cohort included 19 male and nine female subjects, tested at multiple visits (79 visits), who each had at least one visit classified as low pain (pain rating of two or lower) or high pain (pain rating of six or higher). Through whole-genome blood gene expression analysis, Niculescu and his team identified candidate biomarkers between low-pain and high-pain states.
 
 After identifying these potential biomarkers, the researchers undertook what is known as a Bayesian-like Convergent Functional Genomics (CFG) approach ([Niculescu and Le-Niculescu, 2010](https://www.painresearchforum.org/papers/115698-convergent-functional-genomics-what-we-have-learned-and-can-learn-about-genes-pathways)). This entailed using a comprehensive, psychiatric literature-based database of previously published human gene/protein expression and genetic data on pain, as well as animal gene expression and genetic data on pain.
 
 “We wanted to see if the list of candidate biomarkers we identified had prior evidence for being related to pain, as a way to determine which ones to prioritize,” Niculescu explained.
 
-After the discovery and prioritization steps, Niculescu and his team validated the top biomarkers in a separate cohort of 23 psychiatric patients (30 clinic visits) with a clinically severe and functionally impairing pain disorder. They identified 65 candidate biomarkers from this validation effort. Five of these biomarkers had not previously been linked to pain, including MFAP3 (a component of elastin-associated microfibrils), PIK3CD (involved in the immune response), SVEP1 (a contributor to calcium ion binding and chromatin binding), TNFRSF11B (a negative regulator of bone resorption), and ELAC2 (an endonuclease enzyme).
+After the discovery and prioritization steps, Niculescu and his team validated the top biomarkers in a separate cohort of 23 psychiatric patients with a clinically severe and functionally impairing pain disorder (tested at 30 visits). They identified 65 candidate biomarkers from this validation effort. Five of these biomarkers had not previously been linked to pain, including MFAP3 (a component of elastin-associated microfibrils), PIK3CD (involved in the immune response), SVEP1 (a contributor to calcium ion binding and chromatin binding), TNFRSF11B (a negative regulator of bone resorption), and ELAC2 (an endonuclease enzyme).
 
 <br/>
 **Predicting future pain and identifying potential treatments**
 
-The researchers then tested the 65 candidate biomarkers for their ability to predict future pain-related events. Here, the team looked to a third independent cohort of psychiatric patients with a pain disorder to see if the biomarkers could predict a high pain state, and future emergency department (ED) visits for pain. The researchers relied on pain ratings as well as longitudinal follow-up with electronic medical records for the 189 patients (501 visits) in the cohort.
+The researchers then tested the 65 candidate biomarkers for their ability to predict future pain-related events. Here, the team looked to a third independent cohort of psychiatric patients with pain ratings as well as future electronic medical record follow-up (189 patients with 501 visits) to see if the biomarkers could predict a high pain state, and future emergency department (ED) visits for pain. 
 
-They found that contactin 1 (CNTN1), which is involved in neuronal cell adhesion and has been linked to chronic, widespread pain, was the best predictor of whether patients would report a high pain state. Here, high pain was associated with decreased expression of the gene; CNTN1 was thus a pain suppressor gene. G protein subunit gamma 7 (GNG7), which has roles in signal transduction, was the best predictor of all future pain-related ED visits. The biomarkers performed better when personalized by gender.
+The researchers then tested the 65 candidate biomarkers for their ability to predict future pain-related events. Here, the team looked to a third independent cohort of psychiatric patients with pain ratings as well as future electronic medical record follow-up (189 patients with 501 visits) to see if the biomarkers could predict a high pain state, and future emergency department (ED) visits for pain. 
 
-Niculescu and colleagues also tested whether the candidate biomarkers were targets of existing drugs or natural compounds. Haloperidol, SC-560, and amoxapine—an antipsychotic, an NSAID, and an antidepressant, respectively—were some of the top drugs identified. Meanwhile, the top natural compounds were pyridoxine (a form of vitamin B6), cyanocobalamin (a form of vitamin B12) and apigenin (a plant flavonoid). The researchers say that these drugs and natural compounds could perhaps be repurposed to treat pain.
+The biomarkers performed better when personalized by gender, and Niculescu says he and his colleagues will likely use clinically panels for men and panels for women.
+
+Niculescu and colleagues also tested whether the candidate biomarkers were targets of existing drugs or natural compounds. SC-560, methylergometrine, and amoxapine—an NSAID, a psychedelic, and an antidepressant, respectively—were the top drugs identified. Meanwhile, the top natural compounds were pyridoxine (a form of vitamin B6), cyanocobalamin (a form of vitamin B12) and apigenin (a plant flavonoid). The researchers say that these drugs and natural compounds could perhaps be repurposed to treat pain.
+
+Niculescu also stressed the importance of matching patients to non-opioid drugs, in a day and age where people are being taken off opioids and may suffer from untreated pain.
 
 <br/>
 **A very important caveat: sensitive but not specific**
 
 In terms of future research, Niculescu said, “we need to—and we want to in the future—see which biomarkers are the best predictors for each particular type of pain, for example, acute versus chronic pain, fibromyalgia versus migraine, and so on.”
 
-One key finding to keep in mind moving forward is that the full signature of biomarkers—the 65 top biomarkers or the five validated biomarkers—did not perform as well as individual biomarkers.
+One key finding to keep in mind moving forward is that the full signature of biomarkers—the 65 top biomarkers—did not perform as well as individual biomarkers.
 
 “This is slightly unfortunate,” noted Linnstaedt. “Although the identified biomarkers seem to be fairly sensitive markers of pain, they are not highly specific to pain. Having a ‘signature’ of biomarkers that are associated with pain would increase the likelihood that it is specific to pain compared to other disorders.”
 
 “That was a surprise to us,” explained Niculescu. “It’s almost like [the George Orwell novel] *Animal Farm*—all markers are equal, but some are more equal than others. The better predictors will be pulled down by the ones that aren’t as good, meaning that the overall large panel is not as predictive as some of the best individual markers. The challenge moving forward is figuring out which markers are better depending on the specific cohort; pain is heterogeneous. That is what precision medicine is about: having tailored smaller panels.”
+
+Regarding the issue of specificity, Niculescu believes that "it is provided by clinical context, like for a lot of other markers and lab tests in medicine. Biomarkers will be used in the context of patient self-report, clinical exam, and measuring of response to treatment. We have found that it is the slope of change that is more predictive and specific than levels of markers per se."
 
 However, Niculescu is confident that biomarkers will be a cornerstone of medicine in the years ahead, including pain medicine.
 

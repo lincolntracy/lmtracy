@@ -107,6 +107,10 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 
 [BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
 
+*May 2019*
+
+[Hypothalamic Oxytocin Neurons Represent Fear Engrams in Rats](https://www.brainpost.co/weekly-brainpost/2019/5/21/hypothalamic-oxytocin-neurons-represent-fear-memory-traces-in-rats)
+
 *April 2019*
 
 [Thirst Controls Motivated Behavior by Modulating Neural Activity in Mice](https://www.brainpost.co/weekly-brainpost/2019/4/30/thirst-controls-motivated-behavior-by-modulating-neural-activity-in-mice)
