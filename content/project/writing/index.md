@@ -94,6 +94,12 @@ My interest in writing and science communication has been inspired by many sourc
 
 The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education and research. The monthly eNewsletter is a primary means of cumminication with APS members and the general public.
 
+*June 2019*
+
+[Communications, Advocacy, and The Joshua Tree: A Chat with Beth Darnall](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf)
+
+[Cops for Kids and the Australian Pain Society: Working Together to Support Research into Pain in Childhood](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf)
+
 *April-May 2019*
 
 [Prescription Drug Diversion and Pain: History, Policy, and Treatment](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_APR_MAY.pdf)
