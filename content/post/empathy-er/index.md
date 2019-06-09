@@ -72,7 +72,7 @@ Participants will be asked to complete a series of online questionnaires relatin
 <br/> 
 **What do I get out of the research?**
 
-You will not be paid a monetary reward for your participation in this study. However, you will be offered the chance to be entered in a prize draw to win one of three $100 Amazon vouchers. If you choose to enter the prize draw, you will be asked to enter your name and email address into a separate online questionnaire. Your contact details will not be linked to your questionnaire responses. We just need to know who the prize draw winners are, so they can receive their vouchers!  
+You will not be paid a monetary reward for your participation in this study. However, you will be offered the chance to be entered in a prize draw to win one of three $100 [Amazon](https://www.amazon.com.au/) vouchers. If you choose to enter the prize draw, you will be asked to enter your name and email address into a separate online questionnaire. Your contact details will not be linked to your questionnaire responses. We just need to know who the prize draw winners are, so they can receive their vouchers!  
 
 <br/> 
 **Okay, I’m ready to participate in the study!**
