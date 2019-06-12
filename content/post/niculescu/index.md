@@ -94,4 +94,6 @@ However, Niculescu is confident that biomarkers will be a cornerstone of medicin
 
 *Lincoln Tracy, PhD, is a researcher and freelance writer based in Melbourne, Australia. Follow him on Twitter [@lincolntracy](https://twitter.com/lincolntracy).*
 
+---
+
 *This news piece was originally published on [Pain Research Forum](https://www.painresearchforum.org/news/115699-search-blood-biomarkers-pain).*

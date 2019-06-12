@@ -47,9 +47,6 @@ projects = ["writing"]
 
 +++
 
-*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/2/26/hippocampal-accumbens-pathway-drives-memories-of-reward-seeking-behavior) and is reproduced with permission.*
-
-<br/>
 **What's the science?**
 
 Being able to recall specific memories of where to find food – a reward-seeking behavior – is a fundamental part of survival. In mammals, **pyramidal cells** in the dorsal hippocampus store memories of the environment around us.The [nucleus accumbens](https://www.sciencedirect.com/topics/neuroscience/nucleus-accumbens) (part of the ventral striatum) plays an important role in **connecting memory and the motor system to process reward-driven behaviors** such as eating. Research suggests suggesting a functional connection between the dorsal hippocampus and the nucleus accumbens, however, **little is known about whether hippocampal pyramidal cells and nucleus accumbens neurons are connected to one another and how they interact**. This week in [Cell](https://www.cell.com/cell/home), Trouche and colleagues used in vivo electrophysiological recordings, viral vector-mediated tracing, and intersectional trans-synaptic optogenetics to understand how hippocampal pyramidal cells interact with nucleus accumbens neurons to use memories of the surrounding environment in reward-seeking behavior.
@@ -75,3 +72,7 @@ The authors found a direct pathway connecting hippocampal pyramidal cells to nuc
 
 <br/>
 Stéphanie Trouche et al. A hippocampus-accumbens tripartite neuronal motif guides appetitive memory in space. Cell (2019). [Access the original scientific publication here](https://www.cell.com/cell/fulltext/S0092-8674(18)31651-9).
+
+---
+
+*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/2/26/hippocampal-accumbens-pathway-drives-memories-of-reward-seeking-behavior) and is reproduced with permission.*

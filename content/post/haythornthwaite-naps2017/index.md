@@ -105,4 +105,6 @@ I already know a lot of people from the pain world, so I’m going to go outside
 
 Finally, I would invite Diana Nyad or Anne Morrow Lindbergh. Diana Nyad is an amazing swimmer who has swum the English Channel; Lindbergh was an aviator and the first American woman to earn a glider pilot’s license. Their careers were all about persevering to achieve very difficult goals, usually doing so alone. It would be fascinating to hear what led them to do what they did, and what got them through dark nights in the middle of a panic and a horrible rainstorm with thunder and lightning. How did they cope?
 
+---
+
 *This interview was originally published on [Pain Research Forum](https://www.painresearchforum.org/forums/interview/85243-catching-2017-north-american-pain-school-visiting-faculty-conversation).* 

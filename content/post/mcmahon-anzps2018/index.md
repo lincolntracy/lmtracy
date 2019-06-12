@@ -88,6 +88,8 @@ Clearly there are differences between men and women in the prevalence of pain, a
 
 *Lincoln Tracy is a postdoctoral research fellow in the School of Public Health and Preventive Medicine at Monash University, Australia*
 
+---
+
 *This plain-language summary was originally published on  [RELIEF](http://relief.news/why-do-women-experience-chronic-pain-more-often-than-men/).* 
 
 

@@ -37,9 +37,6 @@ projects = ["writing"]
 
 +++
 
-*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/4/2/early-skill-learning-occurs-predominantly-at-rest) and is reproduced with permission.*
-
-<br/>
 **What's the science?**
 
 Learning a new motor skill typically consists of **short periods of active practice**—physically doing the task—**interspersed with short periods of rest**. The combination of practice and rest strengthens the memory in our brain so we can perform the skill better. **Traditionally, the consolidation of a new skill has been thought to occur over a period of hours or days**. This week in [Current Biology](https://www.cell.com/current-biology/home), Bönstrup and colleagues examined the time course of practice and rest in how we learn new motor skills on an unprecedented short time scale.
@@ -71,3 +68,7 @@ This study is the first to show that a **substantial part of early skill learnin
 
 <br/>
 Marlene Bönstrup et al. A Rapid Form of Offline Consolidation in Skill Learning. Current Biology (2019). [Access the original scientific publication here](https://www.cell.com/current-biology/fulltext/S0960-9822(19)30219-2).
+
+---
+
+*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/4/2/early-skill-learning-occurs-predominantly-at-rest) and is reproduced with permission.*

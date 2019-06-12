@@ -99,4 +99,6 @@ This is slightly off topic, but I had the immense honor of having coffee with Pa
 
 It was a really nice meeting and a really interesting conversation—but it wasn’t until a year later that I realized I had been lucky enough to sit down and chat with the Patrick Wall! So that’s quite funny looking back at it now. But to answer the question, I would say Albert Einstein because I think he was a really fascinating person. Or possibly Marie Curie, as I would really love to hear about what it was like being a female academic in the late 19th and early 20th century.
 
+---
+
 *This interview was originally published on [Pain Research Forum](https://www.painresearchforum.org/forums/interview/99173-resilience-face-pain-chat-liesbet-goubert).* 

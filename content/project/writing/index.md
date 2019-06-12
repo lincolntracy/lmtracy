@@ -67,7 +67,6 @@ My interest in writing and science communication has been inspired by many sourc
 
 [Resilience in the Face of Pain: A Chat With Liesbet Goubert](https://www.painresearchforum.org/forums/interview/99173-resilience-face-pain-chat-liesbet-goubert)
 
-
 *April 2018*
 
 [Sex and Gender Differences in Pain: A Chat With Edmund Keogh](https://www.painresearchforum.org/forums/interview/95462-sex-and-gender-differences-pain-chat-edmund-keogh)
@@ -112,6 +111,10 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 **BrainPost**
 
 [BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
+
+*June 2019*
+
+[Testing the Effects of LSD Microdoses on Mood and Cognitive Functioning](https://www.brainpost.co/weekly-brainpost/2019/6/11/testing-the-effects-of-lsd-microdoses-on-mood-and-cognitive-functioning)
 
 *May 2019*
 

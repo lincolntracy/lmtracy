@@ -47,8 +47,6 @@ caption = "Anne Burke"
 
 +++
 
-*This article was first published in the Australian Pain Society Newsletter, [February 2019 edition](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_FEB19.pdf) and is reproduced with permission.*
-
 **Lincoln Tracy** is a researcher and freelance writer based in Melbourne. **Anne Burke** is President Elect of the [Australian Pain Society](https://www.apsoc.org.au/) and Co-Director of Psychology at [Central Adelaide Local Health Network](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/about+us/our+local+health+networks/central+adelaide+local+health+network). You can find them on Twitter [@lincolntracy](https://twitter.com/lincolntracy) and [@anne__burke](https://twitter.com/anne__burke).
 
 <br/>
@@ -92,6 +90,10 @@ Attending NAPS allowed me to form an incredible international network with inspi
 To anyone who is considering applying for NAPS, I’d say most definitely go for it! But…. if you are lucky enough to be accepted, then make sure you take advantage of every opportunity that’s offered, otherwise you’ll miss a once in a lifetime chance to learn from some incredible minds! 
 
 *The next NAPS will run from June 23rd to 28th 2019. Applications open in mid-January and close on March 3rd, 2019 – so make sure you don’t miss out.  Visit [https://northamericanpainschool.com/](https://northamericanpainschool.com/) for further information.*
+
+---
+
+*This article was first published in the Australian Pain Society Newsletter, [February 2019 edition](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_FEB19.pdf) and is reproduced with permission.*
 
 ***
 

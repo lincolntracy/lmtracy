@@ -109,4 +109,6 @@ It is important to keep in mind that the field has only been trying to explain p
 
 *Lincoln Tracy is a Research Fellow at Monash University, Australia.*
 
+---
+
 *This interview was originally published on [Pain Research Forum](https://www.painresearchforum.org/forums/interview/111631-back-pain-drawing-board-pain-education-treatment%E2%80%94-chat-lorimer-moseley).*

@@ -47,9 +47,6 @@ projects = ["writing"]
 
 +++
 
-*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/5/21/hypothalamic-oxytocin-neurons-represent-fear-memory-traces-in-rats) and is reproduced with permission.*
-
-<br/>
 **What's the science?**
 
 Emotional memory representations or engrams (i.e. memory traces, stored in the brain) such as fear, are critical for survival. These engrams allow both animals and humans to **sense, evaluate, and respond to dangerous situations in an appropriate manner**. Two brain regions involved in the development of fear-related memories—the hypothalamus and the central nucleus of the amygdala (CeA)—are **connected by oxytocin neurons**. The endogenous hormone **oxytocin may play an important role in modulating fear**, due to its ability to **[modulate the salience of social cues and events](https://www.sciencedirect.com/science/article/pii/S0006322315006393)**. However, the exact role of hypothalamic oxytocin neurons in fear conditioning or learning is unknown. This week in Neuron, Hasan and colleagues developed a **novel genetic tagging method**—virus-delivered genetic activity-induced tagging of cell ensembles, or **vGATE**—to tag fear-activated oxytocin neurons in rat brains during fear conditioning.
@@ -76,3 +73,7 @@ This study is the first to demonstrate that **vGATE-assisted hypothalamic oxytoc
 
 <br/>
 Hasan et al. A Fear Memory Engram and Its Plasticity in the Hypothalamic Oxytocin System. Neuron (2019). [Access the original scientific publication here](https://www.cell.com/neuron/fulltext/S0896-6273(19)30386-1).
+
+---
+
+*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/5/21/hypothalamic-oxytocin-neurons-represent-fear-memory-traces-in-rats) and is reproduced with permission.*

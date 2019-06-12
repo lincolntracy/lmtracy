@@ -91,4 +91,6 @@ The whole point of the PhD is to allow students to develop into independent, con
 
 That’s an easy one. From my discovery and subsequent love of music from the 1980s, I would love to have David Bowie at the table with me. Since his death in 2016, I’ve enjoyed listening to anecdotes about the different aspects of his life, and what he was like outside of the public domain. He always seemed to laugh a lot, having fun and enjoying himself. And of course there is the creative side, the innovation and seeking out change, the new ideas and new ways of thinking. These are things we can aspire to not only in our lives, but in our research, too.
 
+---
+
 *This interview was originally published on [Pain Research Forum](https://www.painresearchforum.org/forums/interview/95462-sex-and-gender-differences-pain-chat-edmund-keogh).* 

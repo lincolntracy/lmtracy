@@ -157,4 +157,6 @@ While there is still much research to do, the three talks from the World Congres
 
 *Lincoln Tracy is a Research Fellow at Monash University, Australia.*
 
+---
+
 *This summary was originally published on [RELIEF](https://relief.news/heard-it-through-the-grapevine-can-music-ease-pain/).*

@@ -47,9 +47,6 @@ projects = ["writing", "pain"]
 
 +++
 
-*This review was first published in the Australian Pain Society Newsletter, [April-May 2019](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_APR_MAY.pdf) edition and is reproduced with permission.*
-
-<br/>
 **Prescription Drug Diversion and Pain: History, Policy, and Treatment**
 
 **Editors:** John F. Peppin, John J. Coleman, Kelly K. Dineen, and Adam J. Ruggles 
@@ -70,3 +67,7 @@ One interesting topic raised by *Prescription Drug Diversion and Pain* relates t
 *Prescription Drug Diversion and Pain* also considers the demise of American interdisciplinary chronic pain management clinics and how this trend relates to the increase in prescription opioid-related morbidity and mortality. The authors of this chapter posit that the phasing out of these interdisciplinary programs had led to a greater number of healthcare providers prescribing more frequent and higher doses of opioids. I found this to chapter to be quite thought-provoking given the known benefits of multidisciplinary treatment approaches for chronic pain and the strong, multidisciplinary nature of the Australian Pain Society. 
 
 The overall aim of the editors and contributing authors is to provide the reader with a basis for understanding the regulatory schema surrounding the use of opioids as a treatment for chronic pain. *Prescription Drug Diversion and Pain* does not dismiss the concerns over prescription opioid-related morbidity and mortality. Rather, it discusses these issues while conveying an underlying message of not letting the fear of opioids completely define the way we treat chronic pain. In their epilogue, the editors state that the fear of opioids “approaches phobic levels among some and at times may cast the entire field of pain management in a bad light when, in fact, only a very small fraction of the many millions of pain patients and their caregivers are at fault” (p. 243). *Prescription Drug Diversion and Pain* seeks to educate the reader that due to the subjective and complex nature of chronic pain and its treatment, addressing issues of prescription opioid-related morbidity and mortality cannot be solved through simple or direct approaches. Multidisciplinary and multimodal approaches involving all stakeholders – including regulators and legislators – are required moving forwards. 
+
+---
+
+*This review was first published in the Australian Pain Society Newsletter, [April-May 2019](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_APR_MAY.pdf) edition and is reproduced with permission.*

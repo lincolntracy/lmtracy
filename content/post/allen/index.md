@@ -47,9 +47,7 @@ projects = ["writing"]
 
 +++
 
-*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/4/30/thirst-controls-motivated-behavior-by-modulating-neural-activity-in-mice) and is reproduced with permission.*
 
-<br/>
 **What's the science?**
 
 Motivation refers to an internal psychological state that explains how we can respond to the same stimulus or event in different ways **depending on the context and our needs**. For example, if you see a glass of water on a table, **you are more likely to want to drink it after you have been exercising** and are thirsty compared to when you had a glass of water ten minutes earlier. Traditionally, scientists have thought that motivational states control our behavior by **altering the salience of a stimulus**—that is, how noticeable or important we perceive something in our environment to be—**depending on how much reward or pleasure** we would get from the stimulus. Keeping in line with our example, we are more likely to notice the water when we are thirsty as **drinking it then would be more rewarding**. This week in [Science](https://science.sciencemag.org/), Allen and colleagues set out to **uncover the neural mechanisms and activity that control these motivational states** in the context of thirst.
@@ -75,3 +73,7 @@ This study found that **being thirsty places the brain in a particular motivatio
 
 <br/>
 Allen et al. Thirst regulates motivated behavior through modulation of brainwide neural population dynamics. Science (2019). [Access the original scientific publication here](Allen et al. Thirst regulates motivated behavior through modulation of brainwide neural population dynamics. Science (2019)).
+
+--- 
+
+*This article was first published via [BrainPost](https://www.brainpost.co/weekly-brainpost/2019/4/30/thirst-controls-motivated-behavior-by-modulating-neural-activity-in-mice) and is reproduced with permission.*

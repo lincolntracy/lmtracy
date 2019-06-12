@@ -101,4 +101,6 @@ I would definitely want to have a few foreign correspondents there because I fin
 
 And although it’s cliché, I’d want Barack Obama there, too. Being the first person of color to become president of the United States is extraordinary, and I’d love to meet him and his wife, Michelle, as she also fascinates me. I’d also like to meet someone who has done amazing things in advancing Aboriginal people’s rights in Australia—Eddie Mabo or Vincent Lingiari. I would also love to have a couple of members of my family there because, while we often think of these famous names, often the people sitting around us—our own mums and dads—are doing extraordinary things. This would be a fun dinner party.
 
+---
+
 *This interview was originally published on [Pain Research Forum](https://www.painresearchforum.org/forums/interview/99485-australian-pain-society-rising-star-chat-flavia-di-pietro).* 
