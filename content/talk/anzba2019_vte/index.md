@@ -1,6 +1,6 @@
 +++
 title = "Does chemoprophylaxis prevent venous thromboembolism in burns patients? Findings from the Burns Registry of Australia and New Zealand "
-date = 2019-06-22T00:00:00  # Schedule page publish date.
+date = 2019-06-21T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
