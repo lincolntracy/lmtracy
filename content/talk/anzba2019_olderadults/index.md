@@ -1,6 +1,6 @@
 +++
 title = "Characteristics and Management of Burns in Older Adults"
-date = 2019-06-21T00:00:00  # Schedule page publish date.
+date = 2019-06-20T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
