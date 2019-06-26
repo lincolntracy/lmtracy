@@ -97,6 +97,12 @@ My interest in writing and science communication has been inspired by many sourc
 
 The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education and research. The monthly eNewsletter is a primary means of cumminication with APS members and the general public.
 
+*July 2019*
+
+[New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf)
+
+[From Christian Science to the Placebo Effect: A Chat with Tor Wager](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf)
+
 *June 2019*
 
 [Communications, Advocacy, and The Joshua Tree: A Chat with Beth Darnall](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf)
