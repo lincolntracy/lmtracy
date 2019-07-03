@@ -122,6 +122,10 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 
 [BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
 
+*July 2019*
+
+[Crowded Organelles and Lipid Membranes: Key Features in Parkinson’s Disease Pathology](https://www.brainpost.co/weekly-brainpost/2019/7/2/crowded-organelles-and-lipid-membranes-key-features-in-parkinsons-disease-pathology)
+
 *June 2019*
 
 [Testing the Effects of LSD Microdoses on Mood and Cognitive Functioning](https://www.brainpost.co/weekly-brainpost/2019/6/11/testing-the-effects-of-lsd-microdoses-on-mood-and-cognitive-functioning)
