@@ -124,6 +124,8 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 
 *July 2019*
 
+[Food and Drug Rewards are Processed by Unique Pathways in Mice](https://www.brainpost.co/weekly-brainpost/2019/7/9/food-and-drug-rewards-are-processed-by-unique-pathways-in-mice)
+
 [Crowded Organelles and Lipid Membranes: Key Features in Parkinson’s Disease Pathology](https://www.brainpost.co/weekly-brainpost/2019/7/2/crowded-organelles-and-lipid-membranes-key-features-in-parkinsons-disease-pathology)
 
 *June 2019*
