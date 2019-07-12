@@ -53,6 +53,10 @@ My interest in writing and science communication has been inspired by many sourc
 
 [Pain Research Forum](https://www.painresearchforum.org/) is an interactive web community for investigators in academia, industry, medicine, and other fields who are working to translate basic neurobiology into new treatments for chronic pain. PRF aims to speed the rendering of new knowledge into novel therapies by improving information sharing between labs and the clinic, by fostering new collaborations among researchers, and by raising interest in pain research among a wider community of scientists and clinicians. 
 
+*July 2019*
+
+[Australian Pain Society 2019 Rising Star: A Chat With Arjun Muralidharan](https://www.painresearchforum.org/forums/interview/119869-australian-pain-society-2019-rising-star-chat-arjun-muralidharan)
+
 *June 2019*
 
 [Understanding Placebo and Nocebo Effects: A Chat With Ben Colagiuri](https://www.painresearchforum.org/forums/interview/118541-understanding-placebo-and-nocebo-effects-chat-ben-colagiuri)
