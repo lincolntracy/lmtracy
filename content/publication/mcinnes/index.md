@@ -40,7 +40,7 @@ projects = ["burn injuries"]
 tags = ["burn injuries"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0305417919303274"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -55,7 +55,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.burns.2019.07.003"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -75,4 +75,4 @@ math = true
 
 **Full citation**
 
-McInnes, J.A., Cleland, H.A., Cameron, P.A., Darton, A.,**Tracy, L.M.**,  Wood, F.W., Singer, Y. & Gabbe, B.J. (accepted 03/07/2019). Epidemiology of burn-related fatalities in Australia and New Zealand, 2009-2015. *Burns*. 
+McInnes, J.A., Cleland, H.A., Cameron, P.A., Darton, A.,**Tracy, L.M.**,  Wood, F.W., Singer, Y. & Gabbe, B.J. (accepted 03/07/2019). Epidemiology of burn-related fatalities in Australia and New Zealand, 2009-2015. *Burns*. <br/> DOI: 10.1016/j.burns.2019.07.003
