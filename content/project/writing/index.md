@@ -53,6 +53,10 @@ My interest in writing and science communication has been inspired by many sourc
 
 [Pain Research Forum](https://www.painresearchforum.org/) is an interactive web community for investigators in academia, industry, medicine, and other fields who are working to translate basic neurobiology into new treatments for chronic pain. PRF aims to speed the rendering of new knowledge into novel therapies by improving information sharing between labs and the clinic, by fostering new collaborations among researchers, and by raising interest in pain research among a wider community of scientists and clinicians. 
 
+*August 2019*
+
+[From a Spider Venom to an Analgesic in Mice](https://www.painresearchforum.org/news/121897-spider-venom-analgesic-mice)
+
 *July 2019*
 
 [Australian Pain Society 2019 Rising Star: A Chat With Arjun Muralidharan](https://www.painresearchforum.org/forums/interview/119869-australian-pain-society-2019-rising-star-chat-arjun-muralidharan)
@@ -100,6 +104,10 @@ My interest in writing and science communication has been inspired by many sourc
 **Australian Pain Society eNewsletter**
 
 The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education and research. The monthly eNewsletter is a primary means of cumminication with APS members and the general public.
+
+*August 2019*
+
+[Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_AUG19.pdf)
 
 *July 2019*
 
