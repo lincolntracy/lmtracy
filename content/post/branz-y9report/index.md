@@ -47,4 +47,8 @@ The ninth Annual Report has a special focus on burns in older adults. This compl
 
 The complete Annual Report is made available to the public and can be downloaded freely from the [BRANZ website](https://www.monash.edu/__data/assets/pdf_file/0003/1870005/BRANZ_AnnualReport_Year9_FINAL.pdf).
 
-Click here to read a [Monash University blog post](https://www.monash.edu/medicine/news/latest/2019-articles/branz-annual-report-confirms-poorer-outcomes-for-older-burns-patients) about the Annual Report.
+---
+
+*Click here to read a [Monash University blog post](https://www.monash.edu/medicine/news/latest/2019-articles/branz-annual-report-confirms-poorer-outcomes-for-older-burns-patients) about the Annual Report.*
+
+*Click here to read a story in [The Senior](https://www.thesenior.com.au/story/6315473/shower-fall-left-80-year-old-with-serious-scald-burns/) about Noelene Showers, the patient featured in the BRANZ Annual Report.*
