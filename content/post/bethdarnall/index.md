@@ -125,3 +125,5 @@ Thank you so much, Lincoln, it's been such a pleasure.
 ---
 
 *This piece was originally published in the [Australian Pain Society Newsletter](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf) and is reproduced with permission.*
+
+*This piece has since been published on the Australian Pain Society [blog](https://blog.apsoc.org.au/2019/07/08/communications-advocacy-and-the-joshua-tree-a-chat-with-beth-darnall/).*

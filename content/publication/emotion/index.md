@@ -1,6 +1,6 @@
 +++
 title = "Sex moderates the relationship between resting heart rate variability and self-reported difficulties in emotion regulation"
-date = 2018-04-17T00:00:00
+date = 2019-08-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-Williams, D.P., **Tracy, L.M.**, Gerardo, G.M., Rahman, T., Spangler, D.P., Keonig, J., & Thayer, J.F. (in press). Sex moderates the relationship between resting heart rate variability and self-reported difficulties in emotion regulation. *Emotion*. <br/> DOI: 10.1037/emo0000500
+Williams, D.P., **Tracy, L.M.**, Gerardo, G.M., Rahman, T., Spangler, D.P., Keonig, J., & Thayer, J.F. (2019). Sex moderates the relationship between resting heart rate variability and self-reported difficulties in emotion regulation. *Emotion*, 19(6): 922-1001. <br/> DOI: 10.1037/emo0000500

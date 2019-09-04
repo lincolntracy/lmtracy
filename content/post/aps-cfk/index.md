@@ -3,7 +3,7 @@ title = "Cops for Kids and the Australian Pain Society: Working Together to Supp
 subtitle = ""
 
 date = 2019-06-05T00:00:00
-lastmod = 2019-06-05T00:00:00
+lastmod = 2019-08-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -115,3 +115,5 @@ Andrews and her team—including clinicians from the Queensland Children’s Hos
 ---
 
 *This piece was originally published in the [Australian Pain Society Newsletter](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf) and is reproduced with permission.*
+
+*This piece has also been published on the Australian Pain Society [blog](https://blog.apsoc.org.au/2019/07/19/cops-for-kids-and-the-australian-pain-society-working-together-to-support-research-into-pain-in-childhood/).*
