@@ -85,6 +85,8 @@ My interest in writing and science communication has been inspired by many sourc
 
 The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education and research. The monthly eNewsletter is a primary means of cumminication with APS members and the general public.
 
+[Back to Basics (Pain Research)](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_SEP19.pdf) | September 2019
+
 [Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_AUG19.pdf) | August 2019
 
 [New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf) | July 2019
