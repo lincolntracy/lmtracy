@@ -3,7 +3,7 @@
 title = "Writing"
 
 # Date this page was created.
-date = 2019-02-01T00:00:00
+date = 2019-09-21T00:00:00
 
 # Project summary to display on homepage.
 summary = "Freelance writing, interviews, and more."
@@ -125,6 +125,10 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 [Early Skill Learning Occurs Predominantly at Rest](https://www.brainpost.co/weekly-brainpost/2019/4/2/early-skill-learning-occurs-predominantly-at-rest) | 2 April 2019
 
 [Hippocampal-Accumbens Pathway Drive Memories of Reward-Seeking Behavior](https://www.brainpost.co/weekly-brainpost/2019/2/26/hippocampal-accumbens-pathway-drives-memories-of-reward-seeking-behavior) | 26 February 2019
+
+<br/>
+![Proud AWC graduate](https://www.writerscentre.com.au/wp-content/uploads/images/Australian-Writers-Centre-Freelance-Writing-Stage-1-course-graduate.png)
+</centre>
 
 <br/>
 <center>
