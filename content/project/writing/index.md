@@ -106,6 +106,8 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 
 [BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
 
+[Communication Between Brain Regions During Working Memory](https://www.brainpost.co/weekly-brainpost/2019/9/24/communication-between-brain-regions-during-working-memory) | 25 September 2019
+
 [Identification of a Novel Neural Circuit for Depressive Symptoms in Chronic Pain](https://www.brainpost.co/weekly-brainpost/2019/9/3/identification-of-a-novel-neural-circuit-for-depressive-symptoms-in-chronic-pain) | 4 September 2019
 
 [Cerebral Blood Flow Changes as a Potential Biomarker of Major Depressive Disorder](https://www.brainpost.co/weekly-brainpost/2019/8/13/cerebral-blood-flow-changes-as-a-potential-biomarker-of-major-depressive-disorder) | 13 August 2019
