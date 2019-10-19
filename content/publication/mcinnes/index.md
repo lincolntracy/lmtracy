@@ -75,4 +75,4 @@ math = true
 
 **Full citation**
 
-McInnes, J.A., Cleland, H.A., Cameron, P.A., Darton, A.,**Tracy, L.M.**,  Wood, F.W., Singer, Y. & Gabbe, B.J. (accepted 03/07/2019). Epidemiology of burn-related fatalities in Australia and New Zealand, 2009-2015. *Burns*. <br/> DOI: 10.1016/j.burns.2019.07.003
+McInnes, J.A., Cleland, H.A., Cameron, P.A., Darton, A.,**Tracy, L.M.**,  Wood, F.W., Singer, Y. & Gabbe, B.J. (2019). Epidemiology of burn-related fatalities in Australia and New Zealand, 2009-2015. *Burns*, 45(7): 1553-1561. <br/> DOI: 10.1016/j.burns.2019.07.003

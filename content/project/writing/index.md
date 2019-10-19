@@ -53,13 +53,15 @@ My interest in writing and science communication has been inspired by many sourc
 
 [Pain Research Forum](https://www.painresearchforum.org/) is an interactive web community for investigators in academia, industry, medicine, and other fields who are working to translate basic neurobiology into new treatments for chronic pain. PRF aims to speed the rendering of new knowledge into novel therapies by improving information sharing between labs and the clinic, by fostering new collaborations among researchers, and by raising interest in pain research among a wider community of scientists and clinicians. 
 
-[“Everybody Has Won and All Must Have Prizes”: Dodo Birds in Psychological Treatments for Chronic Pain](https://www.painresearchforum.org/news/125485-%E2%80%9Ceverybody-has-won-and-all-must-have-prizes%E2%80%9D-dodo-birds-psychological-treatments-chronic) | October 2 2019
+[If at First You Don’t Succeed, Try, Try Again: An Improved Strategy to Treat Itch](https://www.painresearchforum.org/news/126348-if-first-you-don%E2%80%99t-succeed-try-try-again-improved-strategy-treat-itch) | 15 October 2019
 
-[From a Spider Venom to an Analgesic in Mice](https://www.painresearchforum.org/news/121897-spider-venom-analgesic-mice) | August 7 2019
+[“Everybody Has Won and All Must Have Prizes”: Dodo Birds in Psychological Treatments for Chronic Pain](https://www.painresearchforum.org/news/125485-%E2%80%9Ceverybody-has-won-and-all-must-have-prizes%E2%80%9D-dodo-birds-psychological-treatments-chronic) | 2 October 2019
 
-[Australian Pain Society 2019 Rising Star: A Chat With Arjun Muralidharan](https://www.painresearchforum.org/forums/interview/119869-australian-pain-society-2019-rising-star-chat-arjun-muralidharan) | July 10 2019
+[From a Spider Venom to an Analgesic in Mice](https://www.painresearchforum.org/news/121897-spider-venom-analgesic-mice) | 7 August 2019
 
-[Understanding Placebo and Nocebo Effects: A Chat With Ben Colagiuri](https://www.painresearchforum.org/forums/interview/118541-understanding-placebo-and-nocebo-effects-chat-ben-colagiuri) | June 19 2019
+[Australian Pain Society 2019 Rising Star: A Chat With Arjun Muralidharan](https://www.painresearchforum.org/forums/interview/119869-australian-pain-society-2019-rising-star-chat-arjun-muralidharan) | 10 July 2019
+
+[Understanding Placebo and Nocebo Effects: A Chat With Ben Colagiuri](https://www.painresearchforum.org/forums/interview/118541-understanding-placebo-and-nocebo-effects-chat-ben-colagiuri) | 19 June 2019
 
 [A Search for Blood Biomarkers of Pain](https://www.painresearchforum.org/news/115699-search-blood-biomarkers-pain) | 6 May 2019
 
@@ -109,6 +111,8 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 **BrainPost**
 
 [BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
+
+[X-Chromosome Insufficiency Alters the Structure and Function of the Human Visual Cortex](https://www.brainpost.co/weekly-brainpost/2019/10/15/x-chromosome-insufficiency-alters-the-structure-and-function-of-the-human-visual-cortex) | 15 October 2019
 
 [Communication Between Brain Regions During Working Memory](https://www.brainpost.co/weekly-brainpost/2019/9/24/communication-between-brain-regions-during-working-memory) | 25 September 2019
 
