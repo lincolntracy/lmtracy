@@ -87,21 +87,21 @@ My interest in writing and science communication has been inspired by many sourc
 <br/>
 **Australian Pain Society eNewsletter**
 
-The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education and research. The monthly eNewsletter is a primary means of cumminication with APS members and the general public.
+The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education, and research. The monthly eNewsletter is a primary means of communication with APS members and the general public.
 
-[Focus and Frank: A Conversation with Sean Mackey](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_OCT19.pdf) | October 2019
+[Focus and Frank: A Conversation with Sean Mackey](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_OCT19.pdf) | October 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/10/21/focus-and-frank-a-conversation-with-sean-mackey/))
 
-[Back to Basics (Pain Research)](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_SEP19.pdf) | September 2019
+[Back to Basics (Pain Research)](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_SEP19.pdf) | September 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/10/01/back-to-basics-pain-research/))
 
-[Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_AUG19.pdf) | August 2019
+[Personalised Treatment, Collaboration, and Puzzles: A Chat with Nanna Finnerup](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_AUG19.pdf) | August 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/09/18/personalised-treatment-collaboration-and-puzzles-a-chat-with-nanna-finnerup/))
 
-[New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf) | July 2019
+[New Sensation: Chronic Pain as a New Concept for the International Classification of Diseases](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf) | July 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/09/26/new-sensation-chronic-pain-as-a-new-concept-for-the-international-classification-of-diseases/))
 
-[From Christian Science to the Placebo Effect: A Chat with Tor Wager](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf) | July 2019
+[From Christian Science to the Placebo Effect: A Chat with Tor Wager](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUL19.pdf) | July 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/09/23/from-christian-science-to-the-placebo-effect-a-chat-with-tor-wager/))
 
-[Communications, Advocacy, and The Joshua Tree: A Chat with Beth Darnall](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf) | June 2019
+[Communications, Advocacy, and The Joshua Tree: A Chat with Beth Darnall](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf) | June 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/07/08/communications-advocacy-and-the-joshua-tree-a-chat-with-beth-darnall/))
 
-[Cops for Kids and the Australian Pain Society: Working Together to Support Research into Pain in Childhood](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf) | June 2019
+[Cops for Kids and the Australian Pain Society: Working Together to Support Research into Pain in Childhood](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_JUN19.pdf) | June 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/07/19/cops-for-kids-and-the-australian-pain-society-working-together-to-support-research-into-pain-in-childhood/))
 
 [Prescription Drug Diversion and Pain: History, Policy, and Treatment](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_APR_MAY.pdf) | April-May 2019
 
