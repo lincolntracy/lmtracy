@@ -112,6 +112,8 @@ The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary 
 
 [BrainPost](https://www.brainpost.co/) is a weekly newsletter delivering concise summaries of the latest neuroscience research direct to your inbox. BrainPost aims to provide short, to the point research summaries written by neuroscientists and researchers to keep you informed on high-quality work, minus the hassle. 
 
+[Stress-Induced Lateral Habenula Changes and the Association with Depressive Behavior in Mice](https://www.brainpost.co/weekly-brainpost/2019/11/5/stress-induced-lateral-habenula-changes-and-the-association-with-depressive-behavior-in-mice?rq=Lincoln%20Tracy) | 5 November 2019
+
 [X-Chromosome Insufficiency Alters the Structure and Function of the Human Visual Cortex](https://www.brainpost.co/weekly-brainpost/2019/10/15/x-chromosome-insufficiency-alters-the-structure-and-function-of-the-human-visual-cortex) | 15 October 2019
 
 [Communication Between Brain Regions During Working Memory](https://www.brainpost.co/weekly-brainpost/2019/9/24/communication-between-brain-regions-during-working-memory) | 25 September 2019
