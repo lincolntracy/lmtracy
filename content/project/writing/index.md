@@ -80,6 +80,8 @@ My interest in writing and science communication has been inspired by many sourc
 
 [RELIEF](http://relief.news/), the sister site to PRF, aims to translate the full breadth and depth of pain research into easy to understand langauge and concepts for patients and the genreal public. In doing so, RELIEF hopes to raise awareness of chronic pain in society and help rally support for research. 
 
+[Creepy-Crawlies in Pain Research: From a Spider Venom to a Pain Reliever in Mice](https://relief.news/creepy-crawlies-in-pain-research-from-a-spider-venom-to-a-pain-reliever/) | 7 November 2019
+
 [Heard It Through the Grapevine: Can Music Ease Pain?](https://relief.news/heard-it-through-the-grapevine-can-music-ease-pain/) | 25 March 2019
 
 [Why Do Women Experience Chronic Pain More Often than Men?](http://relief.news/why-do-women-experience-chronic-pain-more-often-than-men/) | 16 October 2019
