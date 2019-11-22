@@ -40,7 +40,7 @@ projects = ["burn injuries"]
 tags = ["burn injuries"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://authors.elsevier.com/sd/article/S0020138319307260"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -55,7 +55,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.injury.2019.11.023"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-**Tracy, L.M.**, Dyson, K., Le Mercier, L., Cleland, H., McInnes, J.A., Cameron, P.A., Singer, Y., Edgar, D.W., Darton, A., & Gabbe, B.J. (accepted 16/11/2019). Variation in documented inhalation injury rates following burn injury in Australia and New Zealand. *Injury*. 
+**Tracy, L.M.**, Dyson, K., Le Mercier, L., Cleland, H., McInnes, J.A., Cameron, P.A., Singer, Y., Edgar, D.W., Darton, A., & Gabbe, B.J. (accepted 16/11/2019). Variation in documented inhalation injury rates following burn injury in Australia and New Zealand. *Injury*. doi: 10.1016/j.injury.2019.11.023
