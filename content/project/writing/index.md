@@ -53,6 +53,8 @@ My interest in writing and science communication has been inspired by many sourc
 
 [Pain Research Forum](https://www.painresearchforum.org/) is an interactive web community for investigators in academia, industry, medicine, and other fields who are working to translate basic neurobiology into new treatments for chronic pain. PRF aims to speed the rendering of new knowledge into novel therapies by improving information sharing between labs and the clinic, by fostering new collaborations among researchers, and by raising interest in pain research among a wider community of scientists and clinicians. 
 
+[A New Mechanism of Medication-Overuse Headache](https://www.painresearchforum.org/news/129507-new-mechanism-medication-overuse-headache) | 4 December 2019
+
 [If at First You Don’t Succeed, Try, Try Again: An Improved Strategy to Treat Itch](https://www.painresearchforum.org/news/126348-if-first-you-don%E2%80%99t-succeed-try-try-again-improved-strategy-treat-itch) | 15 October 2019
 
 [“Everybody Has Won and All Must Have Prizes”: Dodo Birds in Psychological Treatments for Chronic Pain](https://www.painresearchforum.org/news/125485-%E2%80%9Ceverybody-has-won-and-all-must-have-prizes%E2%80%9D-dodo-birds-psychological-treatments-chronic) | 2 October 2019
