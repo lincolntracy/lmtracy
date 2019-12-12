@@ -95,6 +95,10 @@ My interest in writing and science communication has been inspired by many sourc
 
 The [Australian Pain Society](https://www.apsoc.org.au/) is a multidisciplinary organisation aiming to minimise pain and related suffering through advocacy and leadership in clinical practice, education, and research. The monthly eNewsletter is a primary means of communication with APS members and the general public.
 
+[A Pioneering Nurse Researcher and The Fresh Prince: An Interview with Alette De Jong](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_DEC19.pdf) | 12 December 2019
+
+[Meanings of Pain Volume 2: Common Types of Pain and Language](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_DEC19.pdf) | 12 December 2019
+
 [Focus and Frank: A Conversation with Sean Mackey](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_OCT19.pdf) | October 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/10/21/focus-and-frank-a-conversation-with-sean-mackey/))
 
 [Back to Basics (Pain Research)](https://www.apsoc.org.au/PDF/Newsletters/2019_eNews/APS_Newsletter_SEP19.pdf) | September 2019 (Also available on the APS [blog](https://blog.apsoc.org.au/2019/10/01/back-to-basics-pain-research/))
