@@ -1,0 +1,6 @@
+
+Website update token
+
+Tokens you have generated that can be used to access the GitHub API.
+
+2276c2972bfb7686f55b15ef8a4123135e92f069

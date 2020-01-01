@@ -131,7 +131,7 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = false
@@ -296,7 +296,7 @@ enableGitInfo = false
   [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/CV_Lincoln_TRACY_20191201.pdf"  
+     link = "files/CV_Lincoln_TRACY_202001.pdf"  
     
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -304,7 +304,7 @@ enableGitInfo = false
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = false
+  align_right = true
 
 [[menu.main]]
   name = "Home"
@@ -312,13 +312,13 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Posts"
+  url = "#posts"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
@@ -340,7 +340,7 @@ enableGitInfo = false
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
   name = "CV"
-  url = "files/CV_Lincoln_TRACY_20191201.pdf"
+  url = "files/CV_Lincoln_TRACY_202001.pdf"
   weight = 7
   
 # Search.
