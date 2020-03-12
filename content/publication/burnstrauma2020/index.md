@@ -40,7 +40,7 @@ projects = ["burn injuries"]
 tags = ["burn injuries"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://academic.oup.com/burnstrauma/article/doi/10.1093/burnst/tkz004/5760829"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -55,7 +55,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1093/burnst/tkz004"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-**Tracy, L.M.**, Edgar, D.W., Schrale, R., Cleland, H., & Gabbe, B.J., On behalf of the BRANZ Adult Long Term Outcomes pilot, project participating sites, and working party (accepted 18/09/2019). Predictors of itch and pain in the 12 months following burn injury: Findings from the Burns Registry of Australia and New Zealand. *Burns & Trauma*. 
+**Tracy, L.M.**, Edgar, D.W., Schrale, R., Cleland, H., & Gabbe, B.J., On behalf of the BRANZ Adult Long Term Outcomes pilot, project participating sites, and working party (2020). Predictors of itch and pain in the 12 months following burn injury: Findings from the Burns Registry of Australia and New Zealand. *Burns & Trauma* 8: tkz004. <br/> DOI: 10.1093/burnst/tkz004
