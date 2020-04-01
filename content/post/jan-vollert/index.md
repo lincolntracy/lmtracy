@@ -43,6 +43,8 @@ At the upcoming 18th World Congress on Pain, to be held in Amsterdam, the Nether
 
 Vollert is a biostatistician working at Imperial College London, UK, and the University of Heidelberg, Germany. His research focuses on the application of statistical and computational models to pain research, mainly to quantitative sensory testing. He has made significant contributions to the German Research Network on Neuropathic Pain and the EU-funded EuroPain network, particularly his work in unifying and managing the largest sensory phenotype database in the world. Here, Vollert speaks with Lincoln Tracy, PhD, a researcher and freelance writer based in Melbourne, Australia, to discuss how he entered the pain research field, his work on sensory phenotypes, and who he’d want at the table with him for his ideal dinner party.
 
+[Read More](https://www.painresearchforum.org/forums/interview/134934-2020-iasp-world-congress-pain-award-winners-interview-jan-vollert)
+
 *Published by Pain Research Forum.*
 
 ![Jan Vollert](/img/JanVollertFeatured.jpg)
