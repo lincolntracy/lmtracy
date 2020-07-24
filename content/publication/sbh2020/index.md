@@ -1,10 +1,10 @@
 +++
-title = "The Social Threats of COVID-19 for People With Chronic Pain"
-date = 2020-07-08T00:00:00
+title = "Epidemiology of burn injury in older adults: An Australian and New Zealand perspective"
+date = 2020-07-24T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["K Karos", "J McPharland", "S Bunzli", "H Devan", "A Hirsh", "F Kapos", "E Keogh", "D Moore", "**LM Tracy**", "C Ashton-James"]
+authors = ["**LM Tracy**", "Y Singer", "R Schrale", "J Gong", "A Darton", "F Wood", "R Kurmis", "D Edgar", "H Cleland", "BJ Gabbe"]
 
 # Publication type.
 # Legend:
@@ -18,14 +18,14 @@ authors = ["K Karos", "J McPharland", "S Bunzli", "H Devan", "A Hirsh", "F Kapos
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*PAIN*"
-publication_short = "*PAIN*"
+publication = "*Scars, Burns & Healing*"
+publication_short = "*Scars, Burns & Healing*"
 
 # Abstract and optional shortened version.
 abstract = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -33,14 +33,14 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["pain"]
+projects = ["burn injuries"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["pain"]
+tags = ["burn injuries"]
 
 # Links (optional).
-url_pdf = "https://journals.lww.com/pain/Citation/9000/The_social_threats_of_COVID_19_for_people_with.98337.aspx"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -55,7 +55,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.1097/j.pain.0000000000002004"
+doi = ""
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-Karos K, McPharland J, Bunzli S, Devan H, Hirsh A, Kapos F, Keogh E, Moore D, **Tracy LM**, & Ashton-James C. (accepted 08/07/2020). The Social Threats of COVID-19 for People With Chronic Pain. *PAIN*.
+**Tracy LM**, Singer Y, Schrale R, Gong J, Darton A, Wood F, Kurmis R, Edgar D, Cleland H, & Gabbe BJ (accepted 24/07/2020). Epidemiology of burn injury in older adults: An Australian and New Zealand perspective. *Scars, Burns & Healing*.
