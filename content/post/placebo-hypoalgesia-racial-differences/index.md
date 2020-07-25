@@ -49,7 +49,7 @@ Fillingim has extensive experience in researching whether people from different 
 
 The study appeared in the August 2020 issue of PAIN.
 
-![Brain](img/robina-weermeijer-IHfOpAzzjHM-unsplash/jpg)
+![Brain](/img/robina-weermeijer-IHfOpAzzjHM-unsplash.jpg)
 
 <br/>
 **Right Place, Right Time**
