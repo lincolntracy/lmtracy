@@ -44,3 +44,5 @@ Felipe Reis, PhD, is a professor in the Musculoskeletal Physiotherapy Department
 [Read More](https://relief.news/2020/07/15/improving-musculoskeletal-pain-care-in-brazil-through-education-an-interview-with-physiotherapist-turned-researcher-felipe-reis/)
 
 *Published by RELIEF.*
+
+*This piece has also been republished on [Pain Research Forum](https://www.painresearchforum.org/forums/interview/145970-improving-musculoskeletal-pain-care-brazil-through-education-interview).*
