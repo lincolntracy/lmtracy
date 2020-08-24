@@ -40,7 +40,7 @@ projects = ["burn injuries"]
 tags = ["burn injuries"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0305417919306059?via%3Dihub"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -55,7 +55,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1016/j.burns.2020.01.005"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-Gong, J., Singer Y., Cleland, H., Wood, F., Cameron, P., **Tracy, L.M.**, & Gabbe, B.J. (accepted 16/01/2020). Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the Burns Registry of Australia and New Zealand. *Burns*.
+Gong, J., Singer Y., Cleland, H., Wood, F., Cameron, P., **Tracy, L.M.**, & Gabbe, B.J. (accepted 16/01/2020). Driving improved burns care and patient outcomes through clinical registry data: A review of quality indicators in the Burns Registry of Australia and New Zealand. *Burns*. doi: 10.1016/j.burns.2020.01.005
