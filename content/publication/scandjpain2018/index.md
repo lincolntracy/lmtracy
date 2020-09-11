@@ -1,5 +1,5 @@
 +++
-title = "Parasympathomimetic effects of propranolol increases heart rate variability but does not influence experimental pain sensitivity or conditioned pain modulation in males - a randomised placebo-controlled crossover study"
+title = "PThe effects of propranolol on heart rate variability and quantitative, mechanistic, pain profiling: A randomised placebo-controlled crossover study"
 date = 2018-04-23T00:00:00
 draft = false
 
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-Petersen, K.K, Andersen, H.H, Tsukamoto, M., **Tracy, L.M.**, Koenig, J., & Ardent-Nielsen, L. (2018). Parasympathomimetic effects of propranolol increases heart rate variability but does not influence experimental pain sensitivity or conditioned pain modulation in males - a randomised placebo-controlled crossover study. _Scandinavian Journal of Pain_, 18(3): 479-490. <br/> DOI: 10.1515/sjpain-2018-0054
+Petersen, K.K, Andersen, H.H, Tsukamoto, M., **Tracy, L.M.**, Koenig, J., & Ardent-Nielsen, L. (2018). The effects of propranolol on heart rate variability and quantitative, mechanistic, pain profiling: A randomised placebo-controlled crossover study. _Scandinavian Journal of Pain_, 18(3): 479-490. <br/> DOI: 10.1515/sjpain-2018-0054
