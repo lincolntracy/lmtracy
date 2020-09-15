@@ -39,4 +39,4 @@ Lincoln M. Tracy is a researcher in the School of Public Health and Preventive M
 
 Outside of research Lincoln has conducted interviews and written for [Pain Research Forum](https://www.painresearchforum.org/), [RELIEF](http://relief.news/home/),  [BrainPost](https://www.brainpost.co/), and the [Australian Pain Society](https://www.apsoc.org.au/).
 
-Lincoln is the Editor for the Australian Pain Society Newsletter and a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/).
+Lincoln is the Editor for the Australian Pain Society Newsletter, a Board member of the [Australian and New Zealand Burn Association](https://anzba.org.au/), and a member of the Communications Committee for the [Pain Revolution](https://www.painrevolution.org/).
