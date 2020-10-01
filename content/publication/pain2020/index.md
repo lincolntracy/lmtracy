@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-Karos K, McPharland J, Bunzli S, Devan H, Hirsh A, Kapos F, Keogh E, Moore D, **Tracy LM**, & Ashton-James C. (accepted 08/07/2020). The Social Threats of COVID-19 for People With Chronic Pain. *PAIN*.
+Karos K, McPharland J, Bunzli S, Devan H, Hirsh A, Kapos F, Keogh E, Moore D, **Tracy LM**, & Ashton-James C. (2020). The Social Threats of COVID-19 for People With Chronic Pain. *PAIN*, 161(10): 2229-2235.

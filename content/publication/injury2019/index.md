@@ -1,6 +1,6 @@
 +++
 title = "Variation in documented inhalation injury rates following burn injury in Australia and New Zealand"
-date = 2019-11-16T00:00:00
+date = 2020-05-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-**Tracy, L.M.**, Dyson, K., Le Mercier, L., Cleland, H., McInnes, J.A., Cameron, P.A., Singer, Y., Edgar, D.W., Darton, A., & Gabbe, B.J. (accepted 16/11/2019). Variation in documented inhalation injury rates following burn injury in Australia and New Zealand. *Injury*. doi: 10.1016/j.injury.2019.11.023
+**Tracy, L.M.**, Dyson, K., Le Mercier, L., Cleland, H., McInnes, J.A., Cameron, P.A., Singer, Y., Edgar, D.W., Darton, A., & Gabbe, B.J. (2020). Variation in documented inhalation injury rates following burn injury in Australia and New Zealand. *Injury*, 51(5): 1152-1157. doi: 10.1016/j.injury.2019.11.023
