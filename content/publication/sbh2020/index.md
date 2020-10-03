@@ -40,7 +40,7 @@ projects = ["burn injuries"]
 tags = ["burn injuries"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://journals.sagepub.com/doi/full/10.1177/2059513120952336"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -55,7 +55,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1177/2059513120952336"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
@@ -73,4 +73,4 @@ math = true
 
 **Full citation**
 
-**Tracy LM**, Singer Y, Schrale R, Gong J, Darton A, Wood F, Kurmis R, Edgar D, Cleland H, & Gabbe BJ (accepted 24/07/2020). Epidemiology of burn injury in older adults: An Australian and New Zealand perspective. *Scars, Burns & Healing*.
+**Tracy LM**, Singer Y, Schrale R, Gong J, Darton A, Wood F, Kurmis R, Edgar D, Cleland H, & Gabbe BJ (2020). Epidemiology of burn injury in older adults: An Australian and New Zealand perspective. *Scars, Burns & Healing*, 6: 1-11. doi: 10.1177/2059513120952336
