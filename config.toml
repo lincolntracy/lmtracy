@@ -13,7 +13,7 @@ title = "Dr. Lincoln M. Tracy"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "Lincoln M. Tracy &copy; 2019"
+copyright = "Lincoln M. Tracy &copy; 2020"
 
 theme = "hugo-academic"
 enableEmoji = false
