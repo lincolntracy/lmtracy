@@ -41,6 +41,8 @@ Samuel Robinson, PhD, is a postdoctoral research fellow at the Institute for Mol
 
 [Read More...](https://www.painresearchforum.org/forums/interview/144979-looking-toxins-understand-pain-chat-australian-pain-society-2020-rising-star)
 
-*Published by Pain Research Forum.*
+*Originally published by Pain Research Forum.*
+
+*This piece has since been adapted and cross-posted on [RELIEF](https://relief.news/2020/08/05/looking-to-toxins-to-understand-pain-a-chat-with-australian-pain-society-2020-rising-star-samuel-robinson/).*
 
 ![Samuel Robinson](/img/SamuelRobinson.jpg)
